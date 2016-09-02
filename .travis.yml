@@ -3,6 +3,7 @@
 #=========================================================================
 # This file configures Travis CI to automatically run the test for this
 # PyMTL project everytime we do a commit to GitHub.
+# force travisci rebuild
 
 #------------------------------------------------------------------------
 # VM setup
